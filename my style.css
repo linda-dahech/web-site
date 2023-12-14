@@ -10,10 +10,10 @@ body {
 
 /* Header/logo Title */
 .header {
-  padding: 80px;
-  text-align: center;
-  background: #1a2dbc;
-  color: white;
+  padding: 3px;
+  text-align: left;
+  background: white;
+  color: rgb(103, 206, 243);
 }
 
 /* Increase the font size of the heading */
@@ -24,12 +24,12 @@ body {
 /* Style the top navigation bar */
 .navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(167, 231, 255);
 }
 
 /* Style the navigation bar links */
 .navbar a {
-  float: left;
+  float: right;
   display: block;
   color: white;
   text-align: center;
@@ -44,7 +44,7 @@ body {
 
 /* Change color on hover */
 .navbar a:hover {
-  background-color: #ddd;
+  background-color: white;
   color: black;
 }
 
@@ -84,7 +84,8 @@ body {
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  color: white;
+  background: rgb(167, 231, 255);
 }
 
 /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
