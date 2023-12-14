@@ -4,6 +4,7 @@
 
 /* Style the body */
 body {
+  background-image: url("bg.jpg");
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
 }
